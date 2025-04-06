@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TJ Sohn</title>
-    <link>https://tjsohn.github.io/gatherer/</link>
+    <link>http://localhost:1313/gatherer/</link>
     <description>Recent content on TJ Sohn</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 06 Apr 2025 15:48:28 +0300</lastBuildDate>
-    <atom:link href="https://tjsohn.github.io/gatherer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/gatherer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://tjsohn.github.io/gatherer/posts/my-first-post/</link>
+      <link>http://localhost:1313/gatherer/posts/my-first-post/</link>
       <pubDate>Sun, 06 Apr 2025 15:48:28 +0300</pubDate>
-      <guid>https://tjsohn.github.io/gatherer/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/gatherer/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;header&#34;&gt;&#xA;  Header&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#header&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;List&lt;/li&gt;&#xA;&lt;li&gt;List&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
